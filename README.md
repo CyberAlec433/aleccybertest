@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alec <br/><a href="https://github.com/joshmadakor1">Novice Cybersecurity Analyst</a>
+<h1>Hi, I'm Alec <br/>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
