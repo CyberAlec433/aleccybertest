@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Homelab</b>
+- <b> Wazuh SIEM Lab in Linode<b>
 
 <h2>📜 Certifications </h2>
 
